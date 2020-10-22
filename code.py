@@ -7,11 +7,16 @@ TAF1 = input("I enjoy exercising.")
 outdoor1 = input("I'll go crazy if I do not go out of the house for the whole day.")
 outdoor1 = input("I am up for any tough challenges.")
 
-music1 = input("I can see colours in my mind when i hear music.")
+music1 = input("I can see colours in my mind when I hear music.")
 music1 = input("I have a feel for listening to classical music.")
+
 
 volleyball2 = input("I like competitve ball games")
 TAF2 = input("I like running long distance and short distance")
+=======
+volleyball2 = input("I like ball games")
+TAF2 = input("I like running long and short distances")
+
 
 outdoor2 = input("I'm good with tying knots and ropes.")
 
@@ -34,4 +39,4 @@ elif outdoor_final > music_final:
   print("You might be stuiable for ODAC!")
   print("You might be stuiable for Outdoor Adventure Club!")
 else:
-  print("You might be suitable for Netball!")
+  print("You might be suitable for Band!")
