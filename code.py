@@ -27,11 +27,11 @@ music_final = int(music1)+ int(music2)
 print()
 
 if volleyball_final > outdoor_final and volleyball_final > music_final:
-  print("You might be suitable for volleyball!")
+  print("You might be suitable for volleyball!!")
 if TAF_final > outdoor_final and TAF_final > music_final:
-  print("You might be suitable for Track and field!")
+  print("You might be suitable for Track and field!!")
 elif outdoor_final > music_final:
   print("You might be stuiable for ODAC!")
-  print("You might be stuiable for Outdoor Adventure Club!")
+  print("You might be stuiable for Outdoor Adventure Club!!")
 else:
   print("You might be suitable for Band!")
