@@ -34,4 +34,4 @@ elif outdoor_final > music_final:
   print("You might be stuiable for ODAC!")
   print("You might be stuiable for Outdoor Adventure Club!")
 else:
-  print("You might be suitable for Band!")
+  print("You might be suitable for Netball!")
