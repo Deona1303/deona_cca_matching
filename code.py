@@ -10,8 +10,13 @@ outdoor1 = input("I am up for any tough challenges.")
 music1 = input("I can see colours in my mind when I hear music.")
 music1 = input("I have a feel for listening to classical music.")
 
+
+volleyball2 = input("I like competitve ball games")
+TAF2 = input("I like running long distance and short distance")
+=======
 volleyball2 = input("I like ball games")
 TAF2 = input("I like running long and short distances")
+
 
 outdoor2 = input("I'm good with tying knots and ropes.")
 
