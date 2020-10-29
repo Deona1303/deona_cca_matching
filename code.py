@@ -15,7 +15,7 @@ TAF2 = input("I like running long and short distances")
 
 outdoor2 = input("I'm good with tying knots and ropes.")
 
-music2 = input("I play a musical instrument well.")
+music2 = input("Why did the pianist keep banging his head against the keys? He was playing by ear. Lol")
 music2 = input("I can play a musical instrument well.")
 
 
